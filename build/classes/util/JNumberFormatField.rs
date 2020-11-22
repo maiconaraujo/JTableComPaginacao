@@ -1,0 +1,4 @@
+testecampomoeda.JNumberFormatField$2
+testecampomoeda.JNumberFormatField$1
+testecampomoeda.JNumberFormatField$3
+testecampomoeda.JNumberFormatField
